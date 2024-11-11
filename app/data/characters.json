@@ -1,7 +1,7 @@
 [
   {
     "name": "Gon Freecss",
-    "icon": "url_de_l_icone_de_Gon",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324473/hunterAPI/gon_hmru0o.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter", "Team Gon"],
@@ -10,7 +10,7 @@
   },
   {
     "name": "Killua Zoldyck",
-    "icon": "url_de_l_icone_de_Killua",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324500/hunterAPI/killua_oexrjj.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter", "Team Gon"],
@@ -19,7 +19,7 @@
   },
   {
     "name": "Kurapika",
-    "icon": "url_de_l_icone_de_Kurapika",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324515/hunterAPI/kurapika_ebta1l.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter", "Clan Kurta"],
@@ -28,7 +28,7 @@
   },
   {
     "name": "Leorio Paradinight",
-    "icon": "url_de_l_icone_de_Leorio",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324884/hunterAPI/leorio_t2aqgp.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter"],
@@ -37,7 +37,7 @@
   },
   {
     "name": "Hisoka Morow",
-    "icon": "url_de_l_icone_de_Hisoka",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324481/hunterAPI/hisoka_ejswwz.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Indépendant"],
@@ -46,7 +46,7 @@
   },
   {
     "name": "Chrollo Lucilfer",
-    "icon": "url_de_l_icone_de_Chrollo",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324504/hunterAPI/chrollo_d0d59u.png",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
@@ -55,7 +55,7 @@
   },
   {
     "name": "Meruem",
-    "icon": "url_de_l_icone_de_Meruem",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324878/hunterAPI/meruem_dgncvy.jpg",
     "gender": "Masculin",
     "species": "Ant",
     "affiliations": ["Ants Chimera"],
@@ -64,7 +64,7 @@
   },
   {
     "name": "Netero",
-    "icon": "url_de_l_icone_de_Netero",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324878/hunterAPI/netero_y9njif.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter Association"],
@@ -82,7 +82,7 @@
   },
   {
     "name": "Machi",
-    "icon": "url_de_l_icone_de_Machi",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324884/hunterAPI/machi_yfhods.jpg",
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
@@ -100,7 +100,7 @@
   },
   {
     "name": "Illumi Zoldyck",
-    "icon": "url_de_l_icone_de_Illumi",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324484/hunterAPI/illumi_gvpmhy.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Zoldyck Family", "Assassin"],
@@ -109,7 +109,7 @@
   },
   {
     "name": "Biscuit Krueger",
-    "icon": "url_de_l_icone_de_Biscuit",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324504/hunterAPI/bisky_ba5hzn.jpg",
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Hunter", "Master"],
@@ -145,7 +145,7 @@
   },
   {
     "name": "Kite",
-    "icon": "url_de_l_icone_de_Kite",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324887/hunterAPI/kite_oqhyf9.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter", "Mentor de Gon"],
@@ -154,7 +154,7 @@
   },
   {
     "name": "Razor",
-    "icon": "url_de_l_icone_de_Razor",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324869/hunterAPI/razor_eqj4y4.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Greed Island", "Antagoniste"],
@@ -163,7 +163,7 @@
   },
   {
     "name": "Feitan",
-    "icon": "url_de_l_icone_de_Feitan",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324506/hunterAPI/feitan_ftq3km.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
@@ -172,7 +172,7 @@
   },
   {
     "name": "Phinks",
-    "icon": "url_de_l_icone_de_Phinks",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324878/hunterAPI/phinks_dlh9q1.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
@@ -181,7 +181,7 @@
   },
   {
     "name": "Pakunoda",
-    "icon": "url_de_l_icone_de_Pakunoda",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324878/hunterAPI/pakunoda_uzwrnh.jpg",
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
@@ -199,7 +199,7 @@
   },
   {
     "name": "Alluka Zoldyck",
-    "icon": "url_de_l_icone_de_Alluka",
+    "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324501/hunterAPI/alluka_k2tvnf.jpg",
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Zoldyck Family"],

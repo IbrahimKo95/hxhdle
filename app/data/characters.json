@@ -5,7 +5,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter", "Team Gon"],
-    "nen_type": "Enhancement",
+    "nen_type": "Renforcement",
     "arc": "Examens de Hunter"
   },
   {
@@ -23,7 +23,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter", "Clan Kurta"],
-    "nen_type": "Specialization",
+    "nen_type": "Specialisation",
     "arc": "Examens de Hunter"
   },
   {
@@ -32,7 +32,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter"],
-    "nen_type": "Enhancement",
+    "nen_type": "Renforcement",
     "arc": "Examens de Hunter"
   },
   {
@@ -50,7 +50,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
-    "nen_type": "Specialization",
+    "nen_type": "Specialisation",
     "arc": "Yorknew City"
   },
   {
@@ -59,7 +59,7 @@
     "gender": "Masculin",
     "species": "Ant",
     "affiliations": ["Ants Chimera"],
-    "nen_type": "Enhancement",
+    "nen_type": "Renforcement",
     "arc": "Chimera Ant"
   },
   {
@@ -68,7 +68,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter Association"],
-    "nen_type": "Enhancement",
+    "nen_type": "Renforcement",
     "arc": "Chimera Ant"
   },
   {
@@ -77,7 +77,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Zoldyck Family", "Assassin"],
-    "nen_type": "Specialization",
+    "nen_type": "Specialisation",
     "arc": "Chimera Ant"
   },
   {
@@ -104,7 +104,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Zoldyck Family", "Assassin"],
-    "nen_type": "Specialization",
+    "nen_type": "Specialisation",
     "arc": "Examens de Hunter"
   },
   {
@@ -113,7 +113,7 @@
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Hunter", "Master"],
-    "nen_type": "Enhancement",
+    "nen_type": "Renforcement",
     "arc": "Greed Island"
   },
   {
@@ -122,7 +122,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter", "Zodiacs"],
-    "nen_type": "Specialization",
+    "nen_type": "Specialisation",
     "arc": "Chimera Ant"
   },
   {
@@ -131,7 +131,7 @@
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Hunter", "Zodiacs"],
-    "nen_type": "Enhancement",
+    "nen_type": "Renforcement",
     "arc": "Chimera Ant"
   },
   {
@@ -149,7 +149,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter", "Mentor de Gon"],
-    "nen_type": "Enhancement",
+    "nen_type": "Renforcement",
     "arc": "Chimera Ant"
   },
   {
@@ -158,7 +158,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Greed Island", "Antagoniste"],
-    "nen_type": "Specialization",
+    "nen_type": "Specialisation",
     "arc": "Greed Island"
   },
   {
@@ -176,7 +176,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
-    "nen_type": "Enhancement",
+    "nen_type": "Renforcement",
     "arc": "Yorknew City"
   },
   {
@@ -185,7 +185,7 @@
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
-    "nen_type": "Specialization",
+    "nen_type": "Specialisation",
     "arc": "Yorknew City"
   },
   {
@@ -194,7 +194,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Examens de Hunter"],
-    "nen_type": "Enhancement",
+    "nen_type": "Renforcement",
     "arc": "Examens de Hunter"
   },
   {
@@ -203,7 +203,7 @@
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Zoldyck Family"],
-    "nen_type": "Specialization",
+    "nen_type": "Specialisation",
     "arc": "Chimera Ant"
   },
   {
@@ -230,7 +230,7 @@
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Zoldyck Family"],
-    "nen_type": "Specialization",
+    "nen_type": "Specialisation",
     "arc": "Chimera Ant"
   }
 ]

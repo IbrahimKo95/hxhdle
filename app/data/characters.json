@@ -130,7 +130,7 @@
     "icon": "https://i.pinimg.com/736x/ff/67/91/ff67918973c857449b305587bc2199c2.jpg",
     "gender": "Féminin",
     "species": "Humain",
-    "affiliations": ["Hunter", "Zodiacs"],
+    "affiliations": ["Zodiaque","Hunter"],
     "nen_type": "Renforcement",
     "arc": "Chimera Ant"
   },
@@ -232,5 +232,86 @@
     "affiliations": ["Zoldyck Family"],
     "nen_type": "Specialisation",
     "arc": "Chimera Ant"
-  }
+  },
+  {
+    "name": "Nobunaga Hazama",
+    "icon": "https://i.pinimg.com/550x/1c/23/3b/1c233b53ba6f715c32ae7b9b9f63fa86.jpg",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Renforcement",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Franklin Bordeau",
+    "icon": "https://i.pinimg.com/originals/1b/40/73/1b40732aa8f783ab73c87261d297f189.png",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Renforcement",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Uvogin",
+    "icon": "https://www.nautiljon.com/images/perso/00/66/uvogin_12766.webp",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Renforcement",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Shizuku Murasaki",
+    "icon": "https://i.pinimg.com/736x/04/09/7f/04097fbe499a6699c0a57219f6e66df6.jpg",
+    "gender": "Féminin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Matérialisation",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Ging Freecss",
+    "icon": "https://i.pinimg.com/474x/6d/cd/8d/6dcd8d618014a7f4773ad7f1c8368b92.jpg",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Zodiaque", "Hunter", "Greed Island"],
+    "nen_type": "Inconnu",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Pariston Hill",
+    "icon": "https://i.pinimg.com/736x/13/9a/6c/139a6c33776a791dea3a0e9468715d81.jpg",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Zodiaque", "Hunter"],
+    "nen_type": "Inconnu",
+    "arc": "Election"
+  },
+  {
+    "name": "Kurukku",
+    "icon": "https://vainkeurz.com/wp-content/uploads/2021/03/kuru.jpg",
+    "gender": "Féminin",
+    "species": "Humain",
+    "affiliations": ["Zodiaque", "Hunter"],
+    "nen_type": "Manipulation",
+    "arc": "Election"
+  },
+  {
+    "name": "Geru",
+    "icon": "https://i.pinimg.com/originals/12/1c/cd/121ccd2376e40e9bafa5fd0ef2bd8590.jpg",
+    "gender": "Féminin",
+    "species": "Humain",
+    "affiliations": ["Zodiaque", "Hunter"],
+    "nen_type": "Transmutation",
+    "arc": "Election"
+  },{
+  "name": "Ginta",
+  "icon": "https://i.pinimg.com/736x/89/53/11/895311e1712c40ca9e2a8d6c978b9fc3.jpg",
+  "gender": "Masculin",
+  "species": "Humain",
+  "affiliations": ["Zodiaque", "Hunter"],
+  "nen_type": "Inconnu",
+  "arc": "Election"
+}
+
 ]

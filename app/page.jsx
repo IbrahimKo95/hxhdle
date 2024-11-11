@@ -3,6 +3,7 @@ import React, {useEffect, useState} from "react";
 import characters from "./data/characters.json";
 import Loader from "./components/Loader";
 import { SendHorizontal } from "lucide-react";
+import { motion } from "framer-motion";
 
 export default function Home() {
     const [selectedCharacter, setSelectedCharacter] = useState(null);
@@ -15,6 +16,8 @@ export default function Home() {
         setSelectedCharacter(characters[parseInt(String(Math.random() * characters.length))]);
         }, []);
 
+
+
     async function tryCharacter(e, selected) {
         e.preventDefault();
         if (selected) {
@@ -23,12 +26,14 @@ export default function Home() {
             inputRef.current.value = "";
             if(selected.name === selectedCharacter.name) {
                 setWin(true);
+                window.scrollTo(0, document.body.scrollHeight)
             }
         } else {
             setTriedCharacters(triedCharacters !== null ? [...triedCharacters, choiceList[0]] : [choiceList[0]]);
             inputRef.current.value = "";
             if(choiceList[0].name === selectedCharacter.name) {
                 setWin(true);
+                window.scrollTo(0, document.body.scrollHeight)
             }
         }
     }
@@ -116,34 +121,65 @@ export default function Home() {
                             <p className="bg-gray-900/5 text-xs">Arc d'apparition</p>
                         </div>
                     </div>
+                    
                 )}
-                {triedCharacters && triedCharacters.map((character) => (
+                {triedCharacters && triedCharacters.map((character, index) => (
                     <div key={character.name} className="flex justify-center gap-x-5 items-center py-2 px-2 h-20">
                         <div
                             className="h-20 w-20 flex items-center justify-center text-center border-[1px] text-sm overflow-hidden group">
                             <img className="object-cover w-full h-full" src={character.icon} alt={character.name}/>
                             <p className="w-14 opacity-0 absolute group-hover:opacity-100 bg-gray-900 text-xs p-1">{character.name}</p>
                         </div>
-                        <div
-                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.gender === selectedCharacter.gender ? "bg-green-500" : "bg-red-500"}`}>
+                        <motion.div
+                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.gender === selectedCharacter.gender ? "bg-green-500" : "bg-red-500"}`}
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{
+                                delay: (index + 1) * 0.2,
+                                duration: 0.5,
+                            }}>
                             <p className={`${character.gender.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.gender}</p>
-                        </div>
-                        <div
-                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.species === selectedCharacter.species ? "bg-green-500" : "bg-red-500"}`}>
+                        </motion.div>
+                        <motion.div
+                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.species === selectedCharacter.species ? "bg-green-500" : "bg-red-500"}`}
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{
+                                delay: (index + 4) * 0.2,
+                                duration: 0.5,
+                            }}>
                             <p className={`${character.species.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.species}</p>
-                        </div>
-                        <div
-                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.affiliations === selectedCharacter.affiliations ? "bg-green-500" : character.affiliations.some(r => selectedCharacter.affiliations.includes(r)) ? "bg-orange-500" : "bg-red-500"}`}>
-                            <p className={`${character.affiliations.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.affiliations.join(', ')}</p>
-                        </div>
-                        <div
-                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.nen_type === selectedCharacter.nen_type ? "bg-green-500" : "bg-red-500"}`}>
+                        </motion.div>
+                        <motion.div
+                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.affiliations === selectedCharacter.affiliations ? "bg-green-500" : character.affiliations.some(r => selectedCharacter.affiliations.includes(r)) ? "bg-orange-500" : "bg-red-500"}`}
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{
+                                delay: (index + 7) * 0.2,
+                                duration: 0.5,
+                            }}>
+                            <p className={`text-xs`}>{character.affiliations.join(', ')}</p>
+                        </motion.div>
+                        <motion.div
+                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.nen_type === selectedCharacter.nen_type ? "bg-green-500" : "bg-red-500"}`}
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{
+                                delay: (index + 10) * 0.2,
+                                duration: 0.5,
+                            }}>
                             <p className={`${character.nen_type.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.nen_type}</p>
-                        </div>
-                        <div
-                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.arc === selectedCharacter.arc ? "bg-green-500" : "bg-red-500"}`}>
+                        </motion.div>
+                        <motion.div
+                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.arc === selectedCharacter.arc ? "bg-green-500" : "bg-red-500"}`}
+                            initial={{ opacity: 0 }}
+                            animate={{ opacity: 1 }}
+                            transition={{
+                                delay: (index + 13) * 0.2,
+                                duration: 0.5,
+                            }}>
                             <p className={`${character.arc.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.arc}</p>
-                        </div>
+                        </motion.div>
                     </div>
                 ))}
                 {

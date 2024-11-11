@@ -2,7 +2,7 @@
 
 **HxHdle** est un jeu basé sur l'univers de *Hunter x Hunter*, où le but est de deviner un personnage en se basant sur ses caractéristiques. Les joueurs proposent un personnage, puis des informations sur ce personnage sont affichées. En fonction des caractéristiques, un code de couleur (vert, rouge ou orange) indique si les attributs correspondent au personnage à deviner.
 
-![Aperçu]([https://github.com/IbrahimKo95/hxh-dle/blob/main/screenshots/Screenshot.png?raw=true](https://github.com/IbrahimKo95/hxhdle/blob/master/public/img/Screenshot.png?raw=true))
+![Aperçu](https://github.com/IbrahimKo95/hxhdle/blob/master/public/img/Screenshot.png?raw=true)
 
 ## ⚙️ Technologies
 

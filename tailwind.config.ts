@@ -14,7 +14,7 @@ export default {
         primary: "var(--primary)",
       },
       backgroundImage: {
-        'background-home': "url('/img/background.jpg')",
+        'background-home': "url('/img/HunterBackground.jpg')",
       }
     },
   },

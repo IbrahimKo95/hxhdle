@@ -73,7 +73,7 @@
   },
   {
     "name": "Zeno Zoldyck",
-    "icon": "url_de_l_icone_de_Zeno",
+    "icon": "https://i.pinimg.com/736x/66/87/96/66879687ca7fc14d1a6b00f80b86eda7.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Zoldyck Family", "Assassin"],
@@ -91,7 +91,7 @@
   },
   {
     "name": "Shalnark",
-    "icon": "url_de_l_icone_de_Shalnark",
+    "icon": "https://www.nautiljon.com/images/perso/00/39/mini/shalnark_12693.webp?11600230948",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
@@ -118,7 +118,7 @@
   },
   {
     "name": "Knov",
-    "icon": "url_de_l_icone_de_Knov",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1Wr151JYon6DzmZnG8BiO5mbSA3fiBBMGjf7q1kSxP0vTfDA_vs0y6V20pTTLmta4Yk&usqp=CAU",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Hunter", "Zodiacs"],
@@ -127,7 +127,7 @@
   },
   {
     "name": "Cheadle Yorkshire",
-    "icon": "url_de_l_icone_de_Cheadle",
+    "icon": "https://i.pinimg.com/736x/ff/67/91/ff67918973c857449b305587bc2199c2.jpg",
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Hunter", "Zodiacs"],
@@ -136,7 +136,7 @@
   },
   {
     "name": "Genthru",
-    "icon": "url_de_l_icone_de_Genthru",
+    "icon": "https://wallpapers.com/images/hd/genthru-1411-x-668-wallpaper-wy3aghr4xy4dw21x.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Greed Island", "Antagoniste"],
@@ -190,7 +190,7 @@
   },
   {
     "name": "Tonpa",
-    "icon": "url_de_l_icone_de_Tonpa",
+    "icon": "https://i.pinimg.com/564x/dd/82/c9/dd82c92b3a6ea2d68dc2ec0b8f898794.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Examens de Hunter"],
@@ -208,7 +208,7 @@
   },
   {
     "name": "Kastro",
-    "icon": "url_de_l_icone_de_Kastro",
+    "icon": "https://i.pinimg.com/736x/c1/c4/f5/c1c4f5093b62d7e7467fb9624223ad10.jpg",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Indépendant"],
@@ -217,7 +217,7 @@
   },
   {
     "name": "Basho",
-    "icon": "url_de_l_icone_de_Basho",
+    "icon": "https://i.namu.wiki/i/neiQIEO5ruHWNVniTkEjCQoPxRrqxE4Iy4MQrbFQxYqPe_JweeeDtMrOo9P2sIVjs1vb2xfWMNWjRuODRgfReQ.webp",
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Zoldyck Family", "Assassin"],
@@ -226,7 +226,7 @@
   },
   {
     "name": "Kalluto Zoldyck",
-    "icon": "url_de_l_icone_de_Kalluto",
+    "icon": "https://i.pinimg.com/originals/4f/3a/aa/4f3aaa2da9503841304ee63c34bee546.png",
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Zoldyck Family"],

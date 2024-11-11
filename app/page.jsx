@@ -61,10 +61,10 @@ export default function Home() {
                 </div>
             </div>
 
-            <div className="flex flex-col gap-y-3 w-2/4 mt-20">
+            <div className="flex flex-col w-2/4 mt-20 gap-y-5">
                 {triedCharacters && triedCharacters.map((character) => (
-                    <div key={character.name} className="flex justify-between items-center py-2 px-2 h-20">
-                        <div className="">
+                    <div key={character.name} className="flex justify-center gap-x-5 items-center py-2 px-2 h-20">
+                        <div className="h-20 w-20 flex items-center justify-center p-2 text-center border-2 text-sm">
                             <p>{character.name}</p>
                         </div>
                         <div
@@ -76,7 +76,7 @@ export default function Home() {
                             <p className={`${character.species.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.species}</p>
                         </div>
                         <div
-                            className={`h-20 w-20 flex items-center justify-center p-2 text-center ${character.affiliations === selectedCharacter.affiliations ? "bg-green-500" : "bg-red-500"}`}>
+                            className={`h-20 w-20 flex items-center justify-center p-2 text-center ${character.affiliations === selectedCharacter.affiliations ? "bg-green-500" : character.affiliations.some(r=> selectedCharacter.affiliations.includes(r)) ? "bg-orange-500" : "bg-red-500"}`}>
                             <p className={`${character.affiliations.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.affiliations.join(', ')}</p>
                         </div>
                         <div

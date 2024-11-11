@@ -3,17 +3,17 @@ import {useEffect, useState} from "react";
 import characters from "./data/characters.json";
 
 export default function Home() {
-    const [character, setCharacter] = useState(null);
+    const [selectedcharacter, setSelectedCharacter] = useState(null);
     const [triedCharacters, setTriedCharacters] = useState(null);
     const [choiceList, setChoiceList] = useState(null);
     useEffect(() => {
-        setCharacter(characters[parseInt(String(Math.random() * characters.length))]);
+        setSelectedCharacter(characters[parseInt(String(Math.random() * characters.length))]);
         }, []);
 
     async function tryCharacter(e) {
         e.preventDefault();
-        console.log(event.target.elements.choice.value)
-        //setTriedCharacters([...triedCharacters, character]);
+        setTriedCharacters(triedCharacters !== null ? [...triedCharacters, choiceList[0]] : [choiceList[0]]);
+        setChoiceList(null);
     }
 
     async function searchCharacter(e) {
@@ -23,6 +23,9 @@ export default function Home() {
         }
         const search = e;
         const filteredCharacters = characters.filter((character) => {
+            if (triedCharacters && triedCharacters.includes(character)) {
+                return;
+            }
             return character.name.toLowerCase().includes(search.toLowerCase());
         });
         setChoiceList(filteredCharacters);
@@ -30,9 +33,9 @@ export default function Home() {
 
     return (
         <div>
-            {character && (
-                <div key={character.name}>
-                    <h1>{character.name}</h1>
+            {selectedcharacter && (
+                <div key={selectedcharacter.name}>
+                    <h1>{selectedcharacter.name}</h1>
                 </div>
             )}
 
@@ -52,6 +55,15 @@ export default function Home() {
                     </form>
                 </div>
             </div>
+
+            <div>
+                {triedCharacters && triedCharacters.map((character) => (
+                    <button key={character.name} className="flex justify-between py-2 px-2">
+                        <div>{character.name}</div>
+                    </button>
+                ))}
+            </div>
+
         </div>
     )
 }

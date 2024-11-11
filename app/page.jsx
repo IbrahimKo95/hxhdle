@@ -61,25 +61,25 @@ export default function Home() {
                 </div>
             </div>
 
-            <div className="flex flex-col gap-y-3 w-2/4">
+            <div className="flex flex-col gap-y-3 w-2/4 mt-20">
                 {triedCharacters && triedCharacters.map((character) => (
-                    <div key={character.name} className="flex justify-between py-2 px-2">
-                        <div>
+                    <div key={character.name} className="flex justify-between items-center py-2 px-2 h-20">
+                        <div className="">
                             <p>{character.name}</p>
                         </div>
-                        <div className={character.gender === selectedCharacter.gender ? "bg-green-500" : "bg-red-500"}>
+                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.gender === selectedCharacter.gender ? "bg-green-500" : "bg-red-500"}`}>
                             <p>{character.gender}</p>
                         </div>
-                        <div className={character.species === selectedCharacter.species ? "bg-green-500" : "bg-red-500"}>
+                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.species === selectedCharacter.species ? "bg-green-500" : "bg-red-500"}`}>
                             <p>{character.species}</p>
                         </div>
-                        <div className={character.affiliations === selectedCharacter.affiliations ? "bg-green-500" : "bg-red-500"}>
-                            <p>{character.affiliations}</p>
+                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.affiliations === selectedCharacter.affiliations ? "bg-green-500" : "bg-red-500"}`}>
+                            <p>{character.affiliations.join(', ')}</p>
                         </div>
-                        <div className={character.nen_type === selectedCharacter.nen_type ? "bg-green-500" : "bg-red-500"}>
+                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.nen_type === selectedCharacter.nen_type ? "bg-green-500" : "bg-red-500"}`}>
                             <p>{character.nen_type}</p>
                         </div>
-                        <div className={character.arc === selectedCharacter.arc ? "bg-green-500" : "bg-red-500"}>
+                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.arc === selectedCharacter.arc ? "bg-green-500" : "bg-red-500"}`}>
                             <p>{character.arc}</p>
                         </div>
                     </div>

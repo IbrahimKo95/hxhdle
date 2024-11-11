@@ -67,24 +67,30 @@ export default function Home() {
                         <div className="">
                             <p>{character.name}</p>
                         </div>
-                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.gender === selectedCharacter.gender ? "bg-green-500" : "bg-red-500"}`}>
-                            <p>{character.gender}</p>
+                        <div
+                            className={`h-20 w-20 flex items-center justify-center p-2 text-center ${character.gender === selectedCharacter.gender ? "bg-green-500" : "bg-red-500"}`}>
+                            <p className={`${character.gender.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.gender}</p>
                         </div>
-                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.species === selectedCharacter.species ? "bg-green-500" : "bg-red-500"}`}>
-                            <p>{character.species}</p>
+                        <div
+                            className={`h-20 w-20 flex items-center justify-center p-2 text-center ${character.species === selectedCharacter.species ? "bg-green-500" : "bg-red-500"}`}>
+                            <p className={`${character.species.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.species}</p>
                         </div>
-                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.affiliations === selectedCharacter.affiliations ? "bg-green-500" : "bg-red-500"}`}>
-                            <p>{character.affiliations.join(', ')}</p>
+                        <div
+                            className={`h-20 w-20 flex items-center justify-center p-2 text-center ${character.affiliations === selectedCharacter.affiliations ? "bg-green-500" : "bg-red-500"}`}>
+                            <p className={`${character.affiliations.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.affiliations.join(', ')}</p>
                         </div>
-                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.nen_type === selectedCharacter.nen_type ? "bg-green-500" : "bg-red-500"}`}>
-                            <p>{character.nen_type}</p>
+                        <div
+                            className={`h-20 w-20 flex items-center justify-center p-2 text-center ${character.nen_type === selectedCharacter.nen_type ? "bg-green-500" : "bg-red-500"}`}>
+                            <p className={`${character.nen_type.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.nen_type}</p>
                         </div>
-                        <div className={`h-20 w-20 flex items-center justify-center p-2 text-sm text-center ${character.arc === selectedCharacter.arc ? "bg-green-500" : "bg-red-500"}`}>
-                            <p>{character.arc}</p>
+                        <div
+                            className={`h-20 w-20 flex items-center justify-center p-2 text-center ${character.arc === selectedCharacter.arc ? "bg-green-500" : "bg-red-500"}`}>
+                            <p className={`${character.arc.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.arc}</p>
                         </div>
                     </div>
                 ))}
             </div>
+
 
         </div>
     )

@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Gon Freecss",
+    "icon": "url_de_l_icone_de_Gon",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter", "Team Gon"],
+    "nen_type": "Enhancement",
+    "arc": "Examens de Hunter"
+  },
+  {
+    "name": "Killua Zoldyck",
+    "icon": "url_de_l_icone_de_Killua",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter", "Team Gon"],
+    "nen_type": "Transmutation",
+    "arc": "Examens de Hunter"
+  },
+  {
+    "name": "Kurapika",
+    "icon": "url_de_l_icone_de_Kurapika",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter", "Clan Kurta"],
+    "nen_type": "Specialization",
+    "arc": "Examens de Hunter"
+  },
+  {
+    "name": "Leorio Paradinight",
+    "icon": "url_de_l_icone_de_Leorio",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter"],
+    "nen_type": "Enhancement",
+    "arc": "Examens de Hunter"
+  },
+  {
+    "name": "Hisoka Morow",
+    "icon": "url_de_l_icone_de_Hisoka",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Indépendant"],
+    "nen_type": "Transmutation",
+    "arc": "Examens de Hunter"
+  },
+  {
+    "name": "Chrollo Lucilfer",
+    "icon": "url_de_l_icone_de_Chrollo",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Specialization",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Meruem",
+    "icon": "url_de_l_icone_de_Meruem",
+    "gender": "Masculin",
+    "species": "Ant",
+    "affiliations": ["Ants Chimera"],
+    "nen_type": "Enhancement",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Netero",
+    "icon": "url_de_l_icone_de_Netero",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter Association"],
+    "nen_type": "Enhancement",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Zeno Zoldyck",
+    "icon": "url_de_l_icone_de_Zeno",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Zoldyck Family", "Assassin"],
+    "nen_type": "Specialization",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Machi",
+    "icon": "url_de_l_icone_de_Machi",
+    "gender": "Féminin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Transmutation",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Shalnark",
+    "icon": "url_de_l_icone_de_Shalnark",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Manipulation",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Illumi Zoldyck",
+    "icon": "url_de_l_icone_de_Illumi",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Zoldyck Family", "Assassin"],
+    "nen_type": "Specialization",
+    "arc": "Examens de Hunter"
+  },
+  {
+    "name": "Biscuit Krueger",
+    "icon": "url_de_l_icone_de_Biscuit",
+    "gender": "Féminin",
+    "species": "Humain",
+    "affiliations": ["Hunter", "Master"],
+    "nen_type": "Enhancement",
+    "arc": "Greed Island"
+  },
+  {
+    "name": "Knov",
+    "icon": "url_de_l_icone_de_Knov",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter", "Zodiacs"],
+    "nen_type": "Specialization",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Cheadle Yorkshire",
+    "icon": "url_de_l_icone_de_Cheadle",
+    "gender": "Féminin",
+    "species": "Humain",
+    "affiliations": ["Hunter", "Zodiacs"],
+    "nen_type": "Enhancement",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Genthru",
+    "icon": "url_de_l_icone_de_Genthru",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Greed Island", "Antagoniste"],
+    "nen_type": "Manipulation",
+    "arc": "Greed Island"
+  },
+  {
+    "name": "Kite",
+    "icon": "url_de_l_icone_de_Kite",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter", "Mentor de Gon"],
+    "nen_type": "Enhancement",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Razor",
+    "icon": "url_de_l_icone_de_Razor",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Greed Island", "Antagoniste"],
+    "nen_type": "Specialization",
+    "arc": "Greed Island"
+  },
+  {
+    "name": "Feitan",
+    "icon": "url_de_l_icone_de_Feitan",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Transmutation",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Phinks",
+    "icon": "url_de_l_icone_de_Phinks",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Enhancement",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Pakunoda",
+    "icon": "url_de_l_icone_de_Pakunoda",
+    "gender": "Féminin",
+    "species": "Humain",
+    "affiliations": ["Phantom Troupe"],
+    "nen_type": "Specialization",
+    "arc": "Yorknew City"
+  },
+  {
+    "name": "Tonpa",
+    "icon": "url_de_l_icone_de_Tonpa",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Examens de Hunter"],
+    "nen_type": "Enhancement",
+    "arc": "Examens de Hunter"
+  },
+  {
+    "name": "Alluka Zoldyck",
+    "icon": "url_de_l_icone_de_Alluka",
+    "gender": "Féminin",
+    "species": "Humain",
+    "affiliations": ["Zoldyck Family"],
+    "nen_type": "Specialization",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Kastro",
+    "icon": "url_de_l_icone_de_Kastro",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Indépendant"],
+    "nen_type": "Transmutation",
+    "arc": "Examens de Hunter"
+  },
+  {
+    "name": "Basho",
+    "icon": "url_de_l_icone_de_Basho",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Zoldyck Family", "Assassin"],
+    "nen_type": "Manipulation",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Kalluto Zoldyck",
+    "icon": "url_de_l_icone_de_Kalluto",
+    "gender": "Féminin",
+    "species": "Humain",
+    "affiliations": ["Zoldyck Family"],
+    "nen_type": "Specialization",
+    "arc": "Chimera Ant"
+  }
+]

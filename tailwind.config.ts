@@ -11,7 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "var(--primary)",
       },
+      backgroundImage: {
+        'background-home': "url('/img/background.jpg')",
+      }
     },
   },
   plugins: [],

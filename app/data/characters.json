@@ -69,7 +69,7 @@
     "species": "Humain",
     "affiliations": ["Hunter Association"],
     "nen_type": "Renforcement",
-    "arc": "Chimera Ant"
+    "arc": "Examens de Hunter"
   },
   {
     "name": "Zeno Zoldyck",
@@ -276,7 +276,7 @@
     "species": "Humain",
     "affiliations": ["Zodiaque", "Hunter", "Greed Island"],
     "nen_type": "Inconnu",
-    "arc": "Chimera Ant"
+    "arc": "Election"
   },
   {
     "name": "Pariston Hill",
@@ -304,7 +304,8 @@
     "affiliations": ["Zodiaque", "Hunter"],
     "nen_type": "Transmutation",
     "arc": "Election"
-  },{
+  },
+  {
   "name": "Ginta",
   "icon": "https://i.pinimg.com/736x/89/53/11/895311e1712c40ca9e2a8d6c978b9fc3.jpg",
   "gender": "Masculin",
@@ -312,6 +313,50 @@
   "affiliations": ["Zodiaque", "Hunter"],
   "nen_type": "Inconnu",
   "arc": "Election"
+  },
+  {
+    "name": "Neferupito",
+    "icon": "https://i.pinimg.com/236x/02/a5/01/02a501c4a763860efe9ceb1a9297222a.jpg",
+    "gender": "Féminin",
+    "species": "Ant",
+    "affiliations": ["Ants Chimera, Garde Royal du Roi"],
+    "nen_type": "Spécialisation",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Montutyupi",
+    "icon": "https://m.media-amazon.com/images/S/pv-target-images/ffdebd39f4062ae88e4bae95103c9e204602762b8185ac015173a6450a4edb64.png",
+    "gender": "Masculin",
+    "species": "Ant",
+    "affiliations": ["Ants Chimera, Garde Royal du Roi"],
+    "nen_type": "Transmutation",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Shaupfufu",
+    "icon": "https://i.pinimg.com/236x/5c/8e/3c/5c8e3cd2c1494418bcfbca0b5e52c0cd.jpg",
+    "gender": "Masculin",
+    "species": "Ant",
+    "affiliations": ["Ants Chimera, Garde Royal du Roi"],
+    "nen_type": "Manipulation",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Silva Zoldyck",
+    "icon": "https://i.pinimg.com/originals/92/2a/f4/922af4ad864462f488d80224a4ebf81f.jpg",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Zoldyck Family", "Assassin"],
+    "nen_type": "Émission",
+    "arc": "Famille Zoldyck"
+  },
+  {
+  "name": "Kikyô Zoldyck",
+  "icon": "https://i.pinimg.com/736x/e2/9f/82/e29f82bd98c4a48ced452b4cebd2d8d0.jpg",
+  "gender": "Féminin",
+  "species": "Humain",
+  "affiliations": ["Zoldyck Family", "Assassin"],
+  "nen_type": "Manipulation",
+  "arc": "Famille Zoldyck"
 }
-
 ]

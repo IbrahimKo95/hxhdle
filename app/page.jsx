@@ -94,7 +94,7 @@ export default function Home() {
             </div>
 
 
-            <div className="flex flex-col w-2/4 mt-20 gap-y-5 items-center mb-20">
+            <div className="flex flex-col w-2/4 mt-20 gap-y-5 items-center mb-20 max-md:overflow-x-scroll max-md:w-full">
                 {triedCharacters && (
                     <div className="flex justify-center gap-x-5 items-center py-2 px-2 h-20 ">
                         <div className="h-20 w-20 flex items-end justify-center p-2 text-center border-b-[1px] text-sm">

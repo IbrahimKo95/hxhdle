@@ -151,7 +151,7 @@ export default function Home() {
                             <p className={`${character.species.length > 10 ? 'text-xs' : 'text-sm'}`}>{character.species}</p>
                         </motion.div>
                         <motion.div
-                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.affiliations === selectedCharacter.affiliations ? "bg-green-500" : character.affiliations.some(r => selectedCharacter.affiliations.includes(r)) ? "bg-orange-500" : "bg-red-500"}`}
+                            className={`border-[1px] h-20 w-20 flex items-center justify-center p-1 text-center ${character.affiliations.length === selectedCharacter.affiliations.length && character.affiliations.every(r => selectedCharacter.affiliations.includes(r)) ? "bg-green-500" : character.affiliations.some(r => selectedCharacter.affiliations.includes(r)) ? "bg-orange-500" : "bg-red-500"}`}
                             initial={{ opacity: 0 }}
                             animate={{ opacity: 1 }}
                             transition={{

@@ -31,7 +31,7 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324884/hunterAPI/leorio_t2aqgp.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter"],
+    "affiliations": ["Hunter", "Team Gon"],
     "nen_type": "Renforcement",
     "arc": "Examens de Hunter"
   },
@@ -67,7 +67,7 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324878/hunterAPI/netero_y9njif.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter Association"],
+    "affiliations": ["Hunter"],
     "nen_type": "Renforcement",
     "arc": "Examens de Hunter"
   },
@@ -212,8 +212,8 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Indépendant"],
-    "nen_type": "Transmutation",
-    "arc": "Examens de Hunter"
+    "nen_type": "Renforcement",
+    "arc": "Arc de la Tour Céleste"
   },
   {
     "name": "Basho",
@@ -358,5 +358,50 @@
   "affiliations": ["Zoldyck Family", "Assassin"],
   "nen_type": "Manipulation",
   "arc": "Famille Zoldyck"
-}
+},
+  {
+    "name": "Knuckle Bine",
+    "icon": "https://i.pinimg.com/564x/2a/42/6a/2a426a130aef467e38901c63732d3e51.jpg",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter"],
+    "nen_type": "Matérialisation",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Satotsu",
+    "icon": "https://www.nautiljon.com/images/perso/00/04/satotz_12740.webp",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter", "Examinateur"],
+    "nen_type": "Inconnu",
+    "arc": "Examens de Hunter"
+  },
+  {
+    "name": "Shoot MacMahon",
+    "icon": "https://personality-index.com/images/profile/64d5b0e5-67d5-4cc5-b862-34e25d5b2040.jpg",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter"],
+    "nen_type": "Manipulation",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Morau McCarnathy",
+    "icon": "https://i.pinimg.com/originals/03/fb/31/03fb31ba62f398e6cd70a02278aa88ff.png",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Hunter"],
+    "nen_type": "Manipulation",
+    "arc": "Chimera Ant"
+  },
+  {
+    "name": "Zushi",
+    "icon": "https://i.pinimg.com/550x/77/21/57/772157ed4c5891d32984186914657330.jpg",
+    "gender": "Masculin",
+    "species": "Humain",
+    "affiliations": ["Élève de l'école Shingen-Ryu"],
+    "nen_type": "Manipulation",
+    "arc": "Arc de la Tour Céleste"
+  }
 ]

@@ -1,6 +1,6 @@
 "use client"
 import React, {useEffect, useState} from "react";
-import characters from "./data/newCharacters.json";
+import characters from "./data/characters.json";
 import Loader from "./components/Loader";
 import { SendHorizontal } from "lucide-react";
 import { motion } from "framer-motion";

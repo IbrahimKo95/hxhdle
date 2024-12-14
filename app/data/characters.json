@@ -4,7 +4,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324473/hunterAPI/gon_hmru0o.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter", "Team Gon"],
+    "affiliations": ["Association Hunter", "Team Gon"],
+    "occupations": ["Hunter Rookie"],
     "nen_type": "Renforcement",
     "arc": "Examens de Hunter"
   },
@@ -13,7 +14,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324500/hunterAPI/killua_oexrjj.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter", "Team Gon"],
+    "affiliations": ["Association Hunter", "Team Gon", "Zoldyck Family"],
+    "occupations": ["Hunter Rookie"],
     "nen_type": "Transmutation",
     "arc": "Examens de Hunter"
   },
@@ -22,7 +24,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324515/hunterAPI/kurapika_ebta1l.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter", "Clan Kurta"],
+    "affiliations": ["Association Hunter", "Clan Nostrad"],
+    "occupations": ["Blacklist Hunter"],
     "nen_type": "Specialisation",
     "arc": "Examens de Hunter"
   },
@@ -31,7 +34,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324884/hunterAPI/leorio_t2aqgp.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter", "Team Gon"],
+    "affiliations": ["Association Hunter", "Team Gon"],
+    "occupations": ["Hunter Rookie", "Médecin"],
     "nen_type": "Renforcement",
     "arc": "Examens de Hunter"
   },
@@ -40,7 +44,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324481/hunterAPI/hisoka_ejswwz.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Indépendant"],
+    "affiliations": [ "Association Hunter","Indépendant"],
+    "occupations": ["Hunter"],
     "nen_type": "Transmutation",
     "arc": "Examens de Hunter"
   },
@@ -50,6 +55,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
+    "occupations": ["Chef de la Phantom Troupe"],
     "nen_type": "Specialisation",
     "arc": "Yorknew City"
   },
@@ -59,6 +65,7 @@
     "gender": "Masculin",
     "species": "Ant",
     "affiliations": ["Ants Chimera"],
+    "occupations": ["Roi des Ants Chimera"],
     "nen_type": "Renforcement",
     "arc": "Chimera Ant"
   },
@@ -67,7 +74,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324878/hunterAPI/netero_y9njif.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter"],
+    "affiliations": ["Hunter Association", "Shingen-Ryu School"],
+    "occupations": ["Dirigeant de l'Association Hunter", "Créateur de la Shingen-Ryu School"],
     "nen_type": "Renforcement",
     "arc": "Examens de Hunter"
   },
@@ -76,7 +84,8 @@
     "icon": "https://i.pinimg.com/736x/66/87/96/66879687ca7fc14d1a6b00f80b86eda7.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Zoldyck Family", "Assassin"],
+    "affiliations": ["Zoldyck Family"],
+    "occupations": ["Assassin", "Ancien Chef de la Zoldyck Family"],
     "nen_type": "Specialisation",
     "arc": "Chimera Ant"
   },
@@ -86,6 +95,7 @@
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
+    "occupations": ["Membre de la Phantom Troupe", "#3"],
     "nen_type": "Transmutation",
     "arc": "Yorknew City"
   },
@@ -94,7 +104,8 @@
     "icon": "https://www.nautiljon.com/images/perso/00/39/mini/shalnark_12693.webp?11600230948",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Phantom Troupe"],
+    "affiliations": ["Phantom Troupe", "Association Hunter"],
+    "occupations": ["Membre de la Phantom Troupe", "Hackers Hunter", "#6"],
     "nen_type": "Manipulation",
     "arc": "Yorknew City"
   },
@@ -103,7 +114,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324484/hunterAPI/illumi_gvpmhy.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Zoldyck Family", "Assassin"],
+    "affiliations": ["Zoldyck Family", "Association Hunter"],
+    "occupations": ["Assasin", "Hunter"],
     "nen_type": "Specialisation",
     "arc": "Examens de Hunter"
   },
@@ -112,7 +124,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324504/hunterAPI/bisky_ba5hzn.jpg",
     "gender": "Féminin",
     "species": "Humain",
-    "affiliations": ["Hunter", "Master"],
+    "affiliations": ["Association Hunter", "Shingen-Ryu School"],
+    "occupations": ["Treasure Hunters"],
     "nen_type": "Renforcement",
     "arc": "Greed Island"
   },
@@ -121,7 +134,8 @@
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1Wr151JYon6DzmZnG8BiO5mbSA3fiBBMGjf7q1kSxP0vTfDA_vs0y6V20pTTLmta4Yk&usqp=CAU",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter", "Zodiacs"],
+    "affiliations": ["Association Hunter"],
+    "occupations": ["Hunter"],
     "nen_type": "Specialisation",
     "arc": "Chimera Ant"
   },
@@ -130,9 +144,10 @@
     "icon": "https://i.pinimg.com/736x/ff/67/91/ff67918973c857449b305587bc2199c2.jpg",
     "gender": "Féminin",
     "species": "Humain",
-    "affiliations": ["Zodiaque","Hunter"],
+    "affiliations": ["Zodiaque", "Association Hunter"],
+    "occupations": ["Virus Hunter"],
     "nen_type": "Renforcement",
-    "arc": "Chimera Ant"
+    "arc": "Election"
   },
   {
     "name": "Genthru",
@@ -140,16 +155,18 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Greed Island", "Antagoniste"],
+    "occupations": ["Green Island Player"],
     "nen_type": "Manipulation",
     "arc": "Greed Island"
   },
   {
-    "name": "Kite",
+    "name": "Kaito",
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324887/hunterAPI/kite_oqhyf9.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter", "Mentor de Gon"],
-    "nen_type": "Renforcement",
+    "affiliations": ["Association Hunter"],
+    "occupations": ["Hunters sous contrats"],
+    "nen_type": "Matérialisation",
     "arc": "Chimera Ant"
   },
   {
@@ -157,7 +174,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324869/hunterAPI/razor_eqj4y4.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Greed Island", "Antagoniste"],
+    "affiliations": ["Greed Island"],
+    "occupations": ["Green Island Player"],
     "nen_type": "Specialisation",
     "arc": "Greed Island"
   },
@@ -167,6 +185,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
+    "occupations": ["Membre de la Phantom Troupe", "#2"],
     "nen_type": "Transmutation",
     "arc": "Yorknew City"
   },
@@ -176,6 +195,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
+    "occupations": ["Membre de la Phantom Troupe", "#5"],
     "nen_type": "Renforcement",
     "arc": "Yorknew City"
   },
@@ -185,6 +205,7 @@
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
+    "occupations": ["Membre de la Phantom Troupe", "#9"],
     "nen_type": "Specialisation",
     "arc": "Yorknew City"
   },
@@ -193,7 +214,8 @@
     "icon": "https://i.pinimg.com/564x/dd/82/c9/dd82c92b3a6ea2d68dc2ec0b8f898794.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Examens de Hunter"],
+    "affiliations": ["Association Hunter"],
+    "occupations": ["Antagoniste"],
     "nen_type": "Renforcement",
     "arc": "Examens de Hunter"
   },
@@ -202,7 +224,8 @@
     "icon": "https://res.cloudinary.com/dc1aiqs4p/image/upload/v1671324501/hunterAPI/alluka_k2tvnf.jpg",
     "gender": "Féminin",
     "species": "Humain",
-    "affiliations": ["Zoldyck Family"],
+    "affiliations": ["Zoldyck Family", "Nanika"],
+    "occupations": ["Inconnu"],
     "nen_type": "Specialisation",
     "arc": "Chimera Ant"
   },
@@ -211,7 +234,8 @@
     "icon": "https://i.pinimg.com/736x/c1/c4/f5/c1c4f5093b62d7e7467fb9624223ad10.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Indépendant"],
+    "affiliations": ["Tour Céleste"],
+    "occupations": ["Combattant de la Tour Céleste"],
     "nen_type": "Renforcement",
     "arc": "Arc de la Tour Céleste"
   },
@@ -220,7 +244,8 @@
     "icon": "https://i.namu.wiki/i/neiQIEO5ruHWNVniTkEjCQoPxRrqxE4Iy4MQrbFQxYqPe_JweeeDtMrOo9P2sIVjs1vb2xfWMNWjRuODRgfReQ.webp",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Zoldyck Family", "Assassin"],
+    "affiliations": ["Association Hunter", "Clan Nostrad"],
+    "occupations": ["Garde du corps"],
     "nen_type": "Manipulation",
     "arc": "Chimera Ant"
   },
@@ -229,8 +254,9 @@
     "icon": "https://i.pinimg.com/originals/4f/3a/aa/4f3aaa2da9503841304ee63c34bee546.png",
     "gender": "Féminin",
     "species": "Humain",
-    "affiliations": ["Zoldyck Family"],
-    "nen_type": "Specialisation",
+    "affiliations": ["Zoldyck Family", "Phantom Troupe"],
+    "occupations": ["Assassin", "Membre de la Phantom Troupe", "#4"],
+    "nen_type": "Manipulation",
     "arc": "Chimera Ant"
   },
   {
@@ -239,6 +265,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
+    "occupations": ["Membre de la Phantom Troupe", "#1"],
     "nen_type": "Renforcement",
     "arc": "Yorknew City"
   },
@@ -248,6 +275,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
+    "occupations": ["Member of the Phantom Troupe", "#7"],
     "nen_type": "Renforcement",
     "arc": "Yorknew City"
   },
@@ -257,6 +285,7 @@
     "gender": "Masculin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
+    "occupations": ["Membre de la Phantom Troupe", "#11"],
     "nen_type": "Renforcement",
     "arc": "Yorknew City"
   },
@@ -266,6 +295,7 @@
     "gender": "Féminin",
     "species": "Humain",
     "affiliations": ["Phantom Troupe"],
+    "occupations": ["Membre de la Phantom Troupe", "#8"],
     "nen_type": "Matérialisation",
     "arc": "Yorknew City"
   },
@@ -274,7 +304,8 @@
     "icon": "https://i.pinimg.com/474x/6d/cd/8d/6dcd8d618014a7f4773ad7f1c8368b92.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Zodiaque", "Hunter", "Greed Island"],
+    "affiliations": ["Association Hunter","Zodiaque", "Greed Island"],
+    "occupations": ["Hunters archéologues", "Créateur de Greed Island"],
     "nen_type": "Inconnu",
     "arc": "Election"
   },
@@ -283,7 +314,8 @@
     "icon": "https://i.pinimg.com/736x/13/9a/6c/139a6c33776a791dea3a0e9468715d81.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Zodiaque", "Hunter"],
+    "affiliations": ["Zodiaque", "Association Hunter"],
+    "occupations": ["Hunter", "Vice-président de l'Association Hunter"],
     "nen_type": "Inconnu",
     "arc": "Election"
   },
@@ -292,7 +324,8 @@
     "icon": "https://vainkeurz.com/wp-content/uploads/2021/03/kuru.jpg",
     "gender": "Féminin",
     "species": "Humain",
-    "affiliations": ["Zodiaque", "Hunter"],
+    "affiliations": ["Zodiaque", "Association Hunter"],
+    "Occupations": ["Hunters Botaniques"],
     "nen_type": "Manipulation",
     "arc": "Election"
   },
@@ -301,7 +334,8 @@
     "icon": "https://i.pinimg.com/originals/12/1c/cd/121ccd2376e40e9bafa5fd0ef2bd8590.jpg",
     "gender": "Féminin",
     "species": "Humain",
-    "affiliations": ["Zodiaque", "Hunter"],
+    "affiliations": ["Zodiaque", "Association Hunter"],
+    "Occupations": ["Poison Hunters"],
     "nen_type": "Transmutation",
     "arc": "Election"
   },
@@ -310,7 +344,8 @@
     "icon": "https://i.pinimg.com/736x/89/53/11/895311e1712c40ca9e2a8d6c978b9fc3.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Zodiaque", "Hunter"],
+    "affiliations": ["Zodiaque", "Association Hunter"],
+    "Occupations": ["Ranger Hunters"],
     "nen_type": "Inconnu",
     "arc": "Election"
   },
@@ -319,7 +354,8 @@
     "icon": "https://i.pinimg.com/236x/02/a5/01/02a501c4a763860efe9ceb1a9297222a.jpg",
     "gender": "Féminin",
     "species": "Ant",
-    "affiliations": ["Ants Chimera, Garde Royal du Roi"],
+    "affiliations": ["Ants Chimera"],
+    "occupations": ["Garde Royal du Roi"],
     "nen_type": "Spécialisation",
     "arc": "Chimera Ant"
   },
@@ -328,7 +364,8 @@
     "icon": "https://m.media-amazon.com/images/S/pv-target-images/ffdebd39f4062ae88e4bae95103c9e204602762b8185ac015173a6450a4edb64.png",
     "gender": "Masculin",
     "species": "Ant",
-    "affiliations": ["Ants Chimera, Garde Royal du Roi"],
+    "affiliations": ["Ants Chimera"],
+    "occupations": ["Garde Royal du Roi"],
     "nen_type": "Transmutation",
     "arc": "Chimera Ant"
   },
@@ -337,7 +374,8 @@
     "icon": "https://i.pinimg.com/236x/5c/8e/3c/5c8e3cd2c1494418bcfbca0b5e52c0cd.jpg",
     "gender": "Masculin",
     "species": "Ant",
-    "affiliations": ["Ants Chimera, Garde Royal du Roi"],
+    "affiliations": ["Ants Chimera"],
+    "occupations": ["Garde Royal du Roi"],
     "nen_type": "Manipulation",
     "arc": "Chimera Ant"
   },
@@ -346,7 +384,8 @@
     "icon": "https://i.pinimg.com/originals/92/2a/f4/922af4ad864462f488d80224a4ebf81f.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Zoldyck Family", "Assassin"],
+    "affiliations": ["Zoldyck Family"],
+    "occupations": ["Assassin", "Chef de la Zoldyck Family"],
     "nen_type": "Émission",
     "arc": "Famille Zoldyck"
   },
@@ -355,7 +394,8 @@
     "icon": "https://i.pinimg.com/736x/e2/9f/82/e29f82bd98c4a48ced452b4cebd2d8d0.jpg",
     "gender": "Féminin",
     "species": "Humain",
-    "affiliations": ["Zoldyck Family", "Assassin"],
+    "affiliations": ["Zoldyck Family"],
+    "occupations": ["Assassin", "Membre de la Zoldyck Family"],
     "nen_type": "Manipulation",
     "arc": "Famille Zoldyck"
   },
@@ -364,7 +404,8 @@
     "icon": "https://i.pinimg.com/564x/2a/42/6a/2a426a130aef467e38901c63732d3e51.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter"],
+    "affiliations": ["Association Hunter"],
+    "occupations": ["Beast Hunters"],
     "nen_type": "Matérialisation",
     "arc": "Chimera Ant"
   },
@@ -373,7 +414,8 @@
     "icon": "https://www.nautiljon.com/images/perso/00/04/satotz_12740.webp",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter", "Examinateur"],
+    "affiliations": ["Association Hunter"],
+    "occupations": ["Hunters archéologues", "Examinateur"],
     "nen_type": "Inconnu",
     "arc": "Examens de Hunter"
   },
@@ -382,7 +424,8 @@
     "icon": "https://personality-index.com/images/profile/64d5b0e5-67d5-4cc5-b862-34e25d5b2040.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter"],
+    "affiliations": ["Association Hunter"],
+    "occupations": ["Beast Hunters"],
     "nen_type": "Manipulation",
     "arc": "Chimera Ant"
   },
@@ -391,7 +434,8 @@
     "icon": "https://i.pinimg.com/originals/03/fb/31/03fb31ba62f398e6cd70a02278aa88ff.png",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Hunter"],
+    "affiliations": ["Association Hunter"],
+    "occupations": ["Sea Hunters"],
     "nen_type": "Manipulation",
     "arc": "Chimera Ant"
   },
@@ -400,7 +444,8 @@
     "icon": "https://i.pinimg.com/550x/77/21/57/772157ed4c5891d32984186914657330.jpg",
     "gender": "Masculin",
     "species": "Humain",
-    "affiliations": ["Élève de l'école Shingen-Ryu"],
+    "affiliations": ["Tour Céleste"],
+    "occupations": ["Élève de l'école Shingen-Ryu", "Combattant de la Tour Céleste"],
     "nen_type": "Manipulation",
     "arc": "Arc de la Tour Céleste"
   }

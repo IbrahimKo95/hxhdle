@@ -127,7 +127,7 @@ export default function Home() {
                     </div>
 
                 )}
-                {triedCharacters && triedCharacters.map((character, index) => (
+                {triedCharacters && triedCharacters.map((character) => (
                     <div key={character.name} className="flex justify-center gap-x-5 items-center py-2 px-2 h-20">
                     <div
                             className="h-20 w-20 flex items-center justify-center text-center border-[1px] text-sm overflow-hidden group">
